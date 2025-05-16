@@ -20,7 +20,7 @@ To write a C program to print the given string.
 7. End.
 
 ## PROGRAM:
-
+'''
 /*
 C program to find the smallest among three numbers using Structure.
 Developed by: Sowjanya A
@@ -33,7 +33,7 @@ char a[20];
 scanf("%[^\n]",a);
 printf("Hello, Saveetha!\n%s",a);
 }
-
+'''
 ## OUTPUT:
 ![Screenshot 2025-05-07 162034](https://github.com/user-attachments/assets/86acc6c3-a3df-4376-b4dc-b21f2b1d922d)
 
