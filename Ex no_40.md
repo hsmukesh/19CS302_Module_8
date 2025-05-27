@@ -51,6 +51,9 @@ bc
 a bc bc
 bc a bc
 bc bc a
+
+## DATE: 24/04/2025
+
 ## AIM:
 To determine an array of strings sorted in lexicographical order, print all of its permutations in strict lexicographical order. If two permutations look the same, only print one of them.
 
