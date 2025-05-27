@@ -20,6 +20,8 @@ If n>49 print Greater than 49.
 ## Sample Output
 
 forty one
+## DATE: 24/04/2025
+
 ## AIM: 
 
 To determine a positive integer denoting , do the following: If  41<=n <=49 print the lowercase English word corresponding to the number (e.g., forty one for 41 , forty two for 42 etc.).
